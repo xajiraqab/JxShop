@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.e55db1b7.chunk.css",
-    "main.js": "/static/js/main.480d0ab1.chunk.js",
+    "main.css": "/static/css/main.07f7efdc.chunk.css",
+    "main.js": "/static/js/main.8df55803.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.405eb416.js",
     "static/css/2.1d5ffe70.chunk.css": "/static/css/2.1d5ffe70.chunk.css",
-    "static/js/2.d71c8565.chunk.js": "/static/js/2.d71c8565.chunk.js",
+    "static/js/2.58b66aeb.chunk.js": "/static/js/2.58b66aeb.chunk.js",
     "static/js/3.1498d36e.chunk.js": "/static/js/3.1498d36e.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.d71c8565.chunk.js.LICENSE.txt": "/static/js/2.d71c8565.chunk.js.LICENSE.txt",
+    "static/js/2.58b66aeb.chunk.js.LICENSE.txt": "/static/js/2.58b66aeb.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/TBCContractica-Medium.d979fde8.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.405eb416.js",
     "static/css/2.1d5ffe70.chunk.css",
-    "static/js/2.d71c8565.chunk.js",
-    "static/css/main.e55db1b7.chunk.css",
-    "static/js/main.480d0ab1.chunk.js"
+    "static/js/2.58b66aeb.chunk.js",
+    "static/css/main.07f7efdc.chunk.css",
+    "static/js/main.8df55803.chunk.js"
   ]
 }
