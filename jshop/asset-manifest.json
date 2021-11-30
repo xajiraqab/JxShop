@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.404f32d5.chunk.css",
-    "main.js": "/static/js/main.19a9c3fb.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.e0819536.js",
-    "static/css/2.a3f53dc1.chunk.css": "/static/css/2.a3f53dc1.chunk.css",
-    "static/js/2.bb9963b9.chunk.js": "/static/js/2.bb9963b9.chunk.js",
-    "static/js/3.f87cb017.chunk.js": "/static/js/3.f87cb017.chunk.js",
+    "main.css": "/static/css/main.e55db1b7.chunk.css",
+    "main.js": "/static/js/main.0e024937.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.405eb416.js",
+    "static/css/2.1d5ffe70.chunk.css": "/static/css/2.1d5ffe70.chunk.css",
+    "static/js/2.d71c8565.chunk.js": "/static/js/2.d71c8565.chunk.js",
+    "static/js/3.1498d36e.chunk.js": "/static/js/3.1498d36e.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.bb9963b9.chunk.js.LICENSE.txt": "/static/js/2.bb9963b9.chunk.js.LICENSE.txt",
+    "static/js/2.d71c8565.chunk.js.LICENSE.txt": "/static/js/2.d71c8565.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/TBCContractica-Medium.d979fde8.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0819536.js",
-    "static/css/2.a3f53dc1.chunk.css",
-    "static/js/2.bb9963b9.chunk.js",
-    "static/css/main.404f32d5.chunk.css",
-    "static/js/main.19a9c3fb.chunk.js"
+    "static/js/runtime-main.405eb416.js",
+    "static/css/2.1d5ffe70.chunk.css",
+    "static/js/2.d71c8565.chunk.js",
+    "static/css/main.e55db1b7.chunk.css",
+    "static/js/main.0e024937.chunk.js"
   ]
 }
